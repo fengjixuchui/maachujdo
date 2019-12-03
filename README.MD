@@ -19,11 +19,12 @@ pip3 install -r kosaka.txt
 
 # Usage
 1. 
-- Example:
+- Spoof the target:
 ```bash
 python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
 ```
-2. Choice the interface
+
+2. Choice the interface which you want to exploit
 ```bash
 python3 kusupraishchesaneebesh.py
 ```
