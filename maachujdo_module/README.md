@@ -25,6 +25,12 @@ python3 kusupraishchesaneebesh.py
 3. - Test 
 ;)
 
+# Direct install
+
+```bash
+python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps maachujdo
+```
+
 -----------------------------------------------------------
 
 # Understanding of Web Protocols - HTTP and HTTPS

@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="maachujdo", # Replace with your own username
-    version="0.0.1",
+    version="0.1.1",
     author="Ventsislav Varbanovski @nu11secur1ty",
     author_email="venvaropt@gmail.com",
     description="HTTP Sniff Login",
