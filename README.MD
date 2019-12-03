@@ -113,6 +113,7 @@ Now, to save our data from such attacks, we need to encrypt that data.
 This is the point of SSL, to prevent this kind of unauthorized snooping. To authorize your proxy you need to tell the device to trust the proxy certificate, and tell the device clients to trust your certificate or use the devices private key, which it sounds like you don't have access to. For more information: 
 
 https://en.wikipedia.org/wiki/Transport_Layer_Security
+
 https://test.pypi.org/project/maachujdo/
 
 # Have fun ;)
