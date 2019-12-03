@@ -1,5 +1,4 @@
 scapy
 scapy_http
-scapy-ssl_tls
-pycrypto
-tinyec
+pip==19.0.3
+wheel==0.33.1
