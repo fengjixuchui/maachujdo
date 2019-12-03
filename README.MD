@@ -1,19 +1,67 @@
-# maachujdo
-# REQUIREMENTS: 
+# Maaachujdo
+
+[![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/Maachujdo/maachujdo/logo/sniffing-python-yeahhub.jpg)](https://www.youtube.com/watch?v=aQvrvYHXolQ)
+
+
+# Need to install
+- Python3
+```bash
+apt install python3
+apt install python-pip
+apt install python3-pip
+```
+- Install requirements
 
 ```bash
-Python3.7 
-pip3
+pip install -r kosaka.txt
+pip3 install -r kosaka.txt
 ```
-- Packages
-```bash
-git clone https://github.com/nu11secur1ty/maachujdo
-```
-# Installing 
 
+# Usage
+1. 
+- Example:
 ```bash
-python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps maachujdo
+python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
 ```
+2. Choice the interface
+```bash
+python3 kusupraishchesaneebesh.py
+```
+3.
+Test 
+;)
+
+--------------------------------------------
+
+# Direct usage
+
+- Need packages
+```bash
+pip install -r kosaka.txt
+pip3 install -r kosaka.txt
+```
+- Installing the module "maachujdo"
+```bash 
+pip install -i https://test.pypi.org/simple/ maachujdo
+```
+- test
+```bash 
+from maachujdo import kusupraishchesaneebesh
+```
+- or 
+```python
+#!/usr/bin/python3
+from maachujdo import kusupraishchesaneebesh
+print("Yeah you are a samurai ;)")
+```
+# Uninstall the module
+```bash
+pip uninstall maachujdo
+```
+---------------------------------------------------------
+- link:
+`https://test.pypi.org/project/maachujdo/`
+
 
 -----------------------------------------------------------
 
@@ -65,7 +113,5 @@ Now, to save our data from such attacks, we need to encrypt that data.
 This is the point of SSL, to prevent this kind of unauthorized snooping. To authorize your proxy you need to tell the device to trust the proxy certificate, and tell the device clients to trust your certificate or use the devices private key, which it sounds like you don't have access to. For more information: 
 
 https://en.wikipedia.org/wiki/Transport_Layer_Security
-
-https://test.pypi.org/project/maachujdo/
 
 # Have fun ;)

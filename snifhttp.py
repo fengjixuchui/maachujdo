@@ -4,7 +4,6 @@
 
 import os
 from scapy import all as scapy # packet capture module
-#from scapy_http import http # supplementing scapy module by providing http filter
 from scapy_http import http # supplementing scapy module by providing http filter
 from urllib.parse import unquote # to make url encoded text into string
  
