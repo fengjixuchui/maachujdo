@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/nu11secur1ty/maachujdo",
-    packages=['distutils', 'distutils.command'],
+    packages=['maachujdo', 'maachujdo.kusupraishchesaneebesh'],
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
