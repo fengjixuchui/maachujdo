@@ -1,67 +1,19 @@
-# Maaachujdo
-
-[![](https://github.com/nu11secur1ty/SSTC-HTTPS-hijack-login-credentials/blob/master/Maachujdo/maachujdo/logo/sniffing-python-yeahhub.jpg)](https://www.youtube.com/watch?v=aQvrvYHXolQ)
-
-
-# Need to install
-- Python3
-```bash
-apt install python3
-apt install python-pip
-apt install python3-pip
-```
-- Install requirements
+# maachujdo
+# REQUIREMENTS: 
 
 ```bash
-pip install -r kosaka.txt
-pip3 install -r kosaka.txt
+Python3.7 
+pip3
 ```
-
-# Usage
-1. 
-- Example:
+- Packages
 ```bash
-python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
+git clone https://github.com/nu11secur1ty/maachujdo
 ```
-2. Choice the interface
+# Installing 
+
 ```bash
-python3 kusupraishchesaneebesh.py
+python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps maachujdo
 ```
-3.
-Test 
-;)
-
---------------------------------------------
-
-# Direct usage
-
-- Need packages
-```bash
-pip install -r kosaka.txt
-pip3 install -r kosaka.txt
-```
-- Installing the module "maachujdo"
-```bash 
-pip install -i https://test.pypi.org/simple/ maachujdo
-```
-- test
-```bash 
-from maachujdo import kusupraishchesaneebesh
-```
-- or 
-```python
-#!/usr/bin/python3
-from maachujdo import kusupraishchesaneebesh
-print("Yeah you are a samurai ;)")
-```
-# Uninstall the module
-```bash
-pip uninstall maachujdo
-```
----------------------------------------------------------
-- link:
-`https://test.pypi.org/project/maachujdo/`
-
 
 -----------------------------------------------------------
 
