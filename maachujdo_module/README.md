@@ -1,4 +1,4 @@
-# Direct usage
+# Maachujdo
 
 - Need packages
 ```bash
