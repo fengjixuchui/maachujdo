@@ -1,6 +1,13 @@
 # Maachujdo
+########################################
+#                                      #
+# For Kali Linux 2019.4 > Python 3.7.5 #
+#                                      #
+########################################
+
 
 - Need packages
+
 ```bash
 pip3 install -r kosaka.txt
 ```
@@ -22,8 +29,10 @@ print("Yeah you are a samurai ;)")
 - then
 ```bash
 git clone https://github.com/nu11secur1ty/maachujdo.git
+
 cd maachujdo/maachujdo_module/
-python3 nakokrujen.py
+
+python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
 ```
 
 # Uninstall the module
