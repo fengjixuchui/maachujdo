@@ -1,35 +1,39 @@
-# Maaachujdo
+# Direct usage
 
-# Need to install
-- Python3
-```bash
-apt install python3
-apt install python3-pip
-```
-- Install requirements
-
+- Need packages
 ```bash
 pip3 install -r kosaka.txt
 ```
-
-# Usage
-1. - Spoof the target:
+- Installing the module "maachujdo"
+```bash 
+python3 -m pip install -i https://test.pypi.org/simple/ maachujdo
+```
+- test
+```bash 
+python3
+>>>from maachujdo import kusupraishchesaneebesh
+```
+- or 
+```python
+#!/usr/bin/python3
+from maachujdo import kusupraishchesaneebesh
+print("Yeah you are a samurai ;)")
+```
+- then
 ```bash
-python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
+git clone https://github.com/nu11secur1ty/maachujdo.git
+cd maachujdo/maachujdo_module/
+python3 nakokrujen.py
 ```
 
-2. - Choice the interface which you want to exploit
+# Uninstall the module
 ```bash
-python3 kusupraishchesaneebesh.py
+pip uninstall maachujdo
 ```
-3. - Test 
-;)
+---------------------------------------------------------
+- link:
+`https://test.pypi.org/project/maachujdo/`
 
-# Direct install
-
-```bash
-python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps maachujdo
-```
 
 -----------------------------------------------------------
 
