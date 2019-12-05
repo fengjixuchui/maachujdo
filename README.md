@@ -14,7 +14,9 @@
 - Need packages
 
 ```bash
+apt install python3
 pip3 install -r kosaka.txt
+pip3 install -r upack.txt
 ```
 - Installing the module "maachujdo"
 ```bash 
