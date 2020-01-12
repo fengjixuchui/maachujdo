@@ -15,6 +15,7 @@
 
 ```bash
 apt install python3
+apt install python3-pip
 pip3 install -r kosaka.txt
 pip3 install -r upack.txt
 ```
