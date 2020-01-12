@@ -22,6 +22,8 @@ pip3 install -r upack.txt
 - Installing the module "maachujdo"
 ```bash 
 python3 -m pip install -i https://test.pypi.org/simple/ maachujdo
+# or direct, if you use pip3
+pip3 install maachujdo
 ```
 - test
 ```bash 
@@ -46,10 +48,12 @@ python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
 # Uninstall the module
 ```bash
 pip uninstall maachujdo
+pip3 uninstall maachujdo
 ```
 ---------------------------------------------------------
 - link:
 `https://test.pypi.org/project/maachujdo/`
+`https://pypi.org/project/maachujdo/`
 
 
 -----------------------------------------------------------
