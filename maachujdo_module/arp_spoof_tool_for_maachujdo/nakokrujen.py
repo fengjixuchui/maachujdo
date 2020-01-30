@@ -63,4 +63,6 @@ except KeyboardInterrupt:
     print(Fore.YELLOW + "\nCTRL+C pressed .... Reseting ARP tables. Please wait")
     restore(options.target, options.gateway)
     restore(options.gateway, options.target)
+    # Outcome
     print(Fore.GREEN + "\nARP table restored. Quiting")
+    
