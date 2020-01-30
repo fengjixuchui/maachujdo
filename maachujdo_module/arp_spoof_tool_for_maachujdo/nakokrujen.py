@@ -64,8 +64,3 @@ except KeyboardInterrupt:
     restore(options.target, options.gateway)
     restore(options.gateway, options.target)
     print(Fore.GREEN + "\nARP table restored. Quiting")
-    
-
-
-    
-    
