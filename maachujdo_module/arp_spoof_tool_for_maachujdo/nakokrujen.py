@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 # by nu11secur1ty
+# This software is ONLY for Penetration testing and education!
+# Please do not use this with a malicious purpose!
+####################################################
 
 import os
 import scapy.all as scapy
