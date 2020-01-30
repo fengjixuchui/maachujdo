@@ -14,11 +14,16 @@
 - Need packages
 
 ```bash
+apt install python3
+apt install python3-pip
 pip3 install -r kosaka.txt
+pip3 install -r upack.txt
 ```
 - Installing the module "maachujdo"
 ```bash 
 python3 -m pip install -i https://test.pypi.org/simple/ maachujdo
+# or direct, if you use pip3
+pip3 install maachujdo
 ```
 - test
 ```bash 
@@ -35,7 +40,7 @@ print("Yeah you are a samurai ;)")
 ```bash
 git clone https://github.com/nu11secur1ty/maachujdo.git
 
-cd maachujdo/maachujdo_module/
+cd maachujdo_module/arp_spoof_tool_for_maachujdo
 
 python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
 ```
@@ -43,10 +48,12 @@ python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
 # Uninstall the module
 ```bash
 pip uninstall maachujdo
+pip3 uninstall maachujdo
 ```
 ---------------------------------------------------------
 - link:
 `https://test.pypi.org/project/maachujdo/`
+`https://pypi.org/project/maachujdo/`
 
 
 -----------------------------------------------------------

@@ -1,5 +1,9 @@
 #!/usr/bin/python3
-# modified by nu11secur1ty
+# by V.Varbanovski @nu11secur1ty 2020
+# This software is ONLY for Penetration testing and education!
+# Please do not use this with a malicious purpose!
+####################################################
+
 import os
 import scapy.all as scapy
 import time
@@ -59,4 +63,6 @@ except KeyboardInterrupt:
     print(Fore.YELLOW + "\nCTRL+C pressed .... Reseting ARP tables. Please wait")
     restore(options.target, options.gateway)
     restore(options.gateway, options.target)
+    # Outcome
     print(Fore.GREEN + "\nARP table restored. Quiting")
+    
