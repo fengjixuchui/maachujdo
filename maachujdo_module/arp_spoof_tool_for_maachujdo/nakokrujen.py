@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# by nu11secur1ty
+# by V.Varbanovski @nu11secur1ty 2020
 # This software is ONLY for Penetration testing and education!
 # Please do not use this with a malicious purpose!
 ####################################################
