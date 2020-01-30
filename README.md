@@ -40,7 +40,7 @@ print("Yeah you are a samurai ;)")
 ```bash
 git clone https://github.com/nu11secur1ty/maachujdo.git
 
-cd maachujdo/maachujdo_module/
+cd maachujdo_module/arp_spoof_tool_for_maachujdo
 
 python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
 ```
